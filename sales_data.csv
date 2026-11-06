@@ -1,0 +1,63 @@
+OrderID,CustomerID,Age,City,OrderDate,Product,Category,Quantity,UnitPrice,PaymentMethod
+2001,C016,46.0,Amravati,2025-05-10 00:00:00,Wireless Mouse,Electronics,5.0,599.0,UPI
+2002,C005,22.0,Nagpur,2025-10-20 00:00:00,Backpack,Accessories,4.0,999.0,Net Banking
+2003,C016,40.0,Mumbai,2025-09-09 00:00:00,Backpack,Accessories,3.0,999.0,Card
+2004,C004,,Nashik,2025-07-13 00:00:00,Notebook,Stationery,3.0,80.0,Net Banking
+2005,C009,37.0,Pune,2025-01-28 00:00:00,Water Bottle,Accessories,3.0,250.0,Net Banking
+2006,C018,53.0,Pune,2025-07-09 00:00:00,Wireless Mouse,Electronics,1.0,599.0,Net Banking
+2007,C008,20.0,Aurangabad,2025-05-14 00:00:00,Backpack,Accessories,5.0,999.0,Card
+2008,C016,26.0,Amravati,2025-05-21 00:00:00,Headphones,Electronics,3.0,1499.0,UPI
+2009,C004,49.0,Nashik,2025-10-04 00:00:00,Water Bottle,Accessories,4.0,250.0, upi 
+2010,C009,32.0,Aurangabad,2025-04-22 00:00:00,Desk Lamp,Home,1.0,750.0,Cash
+2011,C004,37.0,Mumbai,2025-07-25 00:00:00,Headphones,Electronics,3.0,1499.0,Cash
+2012,C012,46.0,Aurangabad,2025-05-12 00:00:00,Keyboard,Electronics,1.0,899.0,Net Banking
+2013,C015,22.0,,2025-08-19 00:00:00,Backpack,Accessories,5.0,999.0,Cash
+2014,C017,34.0,Aurangabad,2025-03-28 00:00:00,Headphones,Electronics,2.0,1499.0,Card
+2015,C003,53.0, mUmBaI ,2025-08-30 00:00:00,Backpack,Accessories,1.0,999.0,Net Banking
+2016,C016,46.0,Amravati,2025-07-31 00:00:00,Headphones,Electronics,2.0,1499.0,Net Banking
+2017,C010,39.0,Nagpur,2025-01-12 00:00:00,Water Bottle,Accessories,1.0,250.0,UPI
+2018,C009,46.0,Nagpur,2025-05-22 00:00:00,Wireless Mouse,Electronics,5.0,599.0,Card
+2019,C016,42.0,Nagpur,2025-06-19 00:00:00,,Electronics,3.0,599.0,UPI
+2020,C016,31.0,Nagpur,2025-01-10 00:00:00,Water Bottle,Accessories,2.0,250.0,Cash
+2021,C005,29.0,Amravati,2025-10-25 00:00:00,Desk Lamp,Home,5.0,750.0,UPI
+2022,C017,20.0,Aurangabad,2025-03-26 00:00:00,Keyboard,Electronics,5.0,899.0,Cash
+2023,C014,23.0,Nagpur,2025-06-01 00:00:00,Pen Pack, electronics ,4.0,120.0,Net Banking
+2024,C009,35.0,Amravati,2025-09-02 00:00:00,Backpack,Accessories,2.0,999.0,UPI
+2025,C001,22.0,Mumbai,2025-08-20 00:00:00,Notebook,Stationery,4.0,80.0,Card
+2026,C015,24.0,Aurangabad,2025-05-31 00:00:00,Pen Pack,Stationery,,120.0,UPI
+2027,C014,39.0,Amravati,2025-02-19 00:00:00,Pen Pack,Stationery,2.0,120.0,UPI
+2028,C014,45.0,Nagpur,2025-04-19 00:00:00,Notebook,Stationery,5.0,80.0,UPI
+2029,C003,32.0,Aurangabad,2025-04-20 00:00:00,Notebook,Stationery,5.0,80.0,Cash
+2030,C010,29.0,Nashik,2025-10-18 00:00:00,Backpack,Accessories,2.0,999.0,Net Banking
+2031,C015,51.0,Amravati,2025-08-10 00:00:00,Notebook,Stationery,2.0,80.0,UPI
+2032,C009,56.0,Mumbai,2025-05-17 00:00:00,Wireless Mouse,Electronics,4.0,,UPI
+2033,C007,52.0,Nagpur,2025-06-14 00:00:00,Backpack,Accessories,1.0,999.0,Cash
+2034,C001,50.0,Amravati,2025-08-04 00:00:00,Headphones,Electronics,4.0,1499.0,Cash
+2035,C013,24.0,Nagpur,2025-01-29 00:00:00,Notebook,Stationery,4.0,80.0,Card
+2036,C016,35.0,Nashik,2025-01-13 00:00:00,Wireless Mouse,Electronics,1.0,599.0,Cash
+2037,C007,46.0,Mumbai,2025-07-23 00:00:00,Keyboard,Electronics,1.0,899.0,UPI
+2038,C016,25.0,Pune,2025-10-05 00:00:00,Water Bottle,Accessories,5.0,250.0,Card
+2039,C007,44.0,Nagpur,2025-03-30 00:00:00,Pen Pack,Stationery,1.0,120.0,UPI
+2040,C009,38.0,Amravati,2025-08-23 00:00:00,Desk Lamp,Home,1.0,750.0,UPI
+2041,C010,46.0,Amravati,not-a-date,Notebook,Stationery,5.0,80.0,UPI
+2042,C011,38.0,Nashik,2025-03-22 00:00:00,Water Bottle,Accessories,5.0,250.0,Cash
+2043,C011,54.0,Amravati,2025-03-27 00:00:00,Water Bottle,Accessories,1.0,250.0,Cash
+2044,C001,56.0,Nagpur,2025-02-12 00:00:00,Headphones,Electronics,2.0,1499.0,Card
+2045,C003,46.0,Nashik,2025-02-05 00:00:00,Notebook,Stationery,2.0,80.0,UPI
+2046,C015,49.0,Aurangabad,2025-08-19 00:00:00,Backpack,Accessories,2.0,999.0,UPI
+2047,C019,59.0,Pune,2025-03-12 00:00:00,Water Bottle,Accessories,1.0,250.0,UPI
+2048,C011,33.0,Pune,2025-09-06 00:00:00,Water Bottle,Accessories,3.0,250.0,Net Banking
+2049,C007,26.0,Aurangabad,2025-07-10 00:00:00,Desk Lamp,Home,2.0,750.0,Card
+2050,C019,29.0,Aurangabad,2025-10-08 00:00:00,Water Bottle,Accessories,1.0,250.0,UPI
+2051,C001,30.0,Amravati,2025-10-18 00:00:00,Water Bottle,Accessories,5.0,250.0,UPI
+2052,C002,50.0,Aurangabad,2025-09-25 00:00:00,Desk Lamp,Home,2.0,750.0,Net Banking
+2053,C011,38.0,Pune,2025-01-07 00:00:00,Wireless Mouse,Electronics,4.0,599.0,Cash
+2054,C009,34.0,Aurangabad,2025-01-29 00:00:00,Backpack,Accessories,4.0,999.0,Card
+2055,C006,18.0,Aurangabad,2025-10-12 00:00:00,Pen Pack,Stationery,2.0,120.0,UPI
+2056,C002,53.0,Aurangabad,2025-02-15 00:00:00,Wireless Mouse,Electronics,4.0,599.0,UPI
+2057,C012,48.0,Aurangabad,2025-01-14 00:00:00,Notebook,Stationery,1.0,80.0,Cash
+2058,C020,51.0,Pune,2025-10-19 00:00:00,Notebook,Stationery,3.0,80.0,Card
+2059,C003,58.0,Mumbai,2025-02-22 00:00:00,Pen Pack,Stationery,2.0,120.0,Cash
+2060,C001,47.0,Aurangabad,2025-02-06 00:00:00,Keyboard,Electronics,2.0,899.0,Card
+2006,C018,53.0,Pune,2025-07-09 00:00:00,Wireless Mouse,Electronics,1.0,599.0,Net Banking
+2011,C099,37.0,Pune,2025-07-25 00:00:00,Headphones,Electronics,3.0,1499.0,Cash
